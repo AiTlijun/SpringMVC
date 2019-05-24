@@ -51,5 +51,6 @@ public class Test {
 			}
 		}
 		System.out.println("branch");
+		System.out.println("master");
 	}
 }
